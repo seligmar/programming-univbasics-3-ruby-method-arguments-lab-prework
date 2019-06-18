@@ -1,5 +1,5 @@
-Define a Method That Takes in and Uses an Argument
-Define a method, #introduction that takes in the argument name and outputs the phrase: "Hi, my name is #{name}."
+#Define a Method That Takes in and Uses an Argument
+#Define a method, #introduction that takes in the argument name and outputs the phrase: "Hi, my name is #{name}."
 
 Define a Method That Takes in and Uses Two Arguments
 Define a method, #introduction_with_language that takes in two arguments, name and language and outputs the phrase: "Hi, my name is #{name} and I am learning to program in #{language}."
